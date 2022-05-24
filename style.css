@@ -1,0 +1,80 @@
+.body{
+    background-color: yellow;
+    width: 90%;
+}
+
+.imageP1{
+margin: 10px;
+border: 10px solid rgb(243, 183, 238);
+border-radius: 50px;
+float: right;
+width: 200px;
+
+}
+.imageP1{
+    margin: 10px;
+    border: 10px solid rgb(243, 183, 238);
+    border-radius: 50px;
+    float: right;
+    width: 200px;
+    
+    }
+    .imageP2{
+        margin: 10px;
+        border: 10px solid rgb(243, 183, 238);
+        border-radius: 50px;
+        float: left;
+        width: 200px;
+        
+        }
+        .imageP3{
+            margin: 10px;
+            border: 10px solid rgb(243, 183, 238);
+            border-radius: 50px;
+            float: right;
+            width: 200px;
+            
+            }
+            .imageP4{
+                margin: 10px;
+                border: 10px solid rgb(243, 183, 238);
+                border-radius: 50px;
+                float: left;
+                width: 200px;
+                
+                }
+                
+                    
+    
+
+.clearedbox1{
+    clear: right;
+}
+.clearedbox2{
+    clear: left;
+}
+.clearedbox3{
+    clear: right;
+}
+.clearedbox4{
+    clear: left;
+}
+
+
+
+
+
+
+
+
+.container{
+    background-color: skyblue;
+    width: auto;
+   margin: 20px;
+   border: 15px solid rgba(100, 9, 204, 0.801);
+   border-radius: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(7, 41, 92);
+}
